@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SanFrancisco</string>
+    <string name="tab_text_1">Map</string>
+    <string name="tab_text_2">Web</string>
+    <string name="tab_text_3">Menu</string>
+
+</resources>
